@@ -1,5 +1,4 @@
-Memory Allocation Timing in C++
-This project measures how long it takes to dynamically allocate different sizes of memory blocks using malloc() in C++. It’s useful for observing how memory allocation time scales with size.
+the project measures how long it takes to dynamically allocate different sizes of memory blocks using malloc() in C++. It’s useful for observing how memory allocation time scales with size.
 
 📋 What It Does
 Allocates memory blocks from 1 byte up to 9,000,000 bytes, increasing in steps of 100,000 bytes.
