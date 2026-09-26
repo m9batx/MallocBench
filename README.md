@@ -10,4 +10,5 @@ on the graph prints the size and duration for each allocation.
 where the x is the number of bytes requested from malloc()
 and y is time taken by malloc() to perform that allocation, measured in milliseconds.
 
-![image](https://github.com/user-attachments/assets/c2a56d07-d522-475e-bd06-90e18d7bd0d2)
+<img width="575" height="339" alt="Screenshot 2026-09-26 204903" src="https://github.com/user-attachments/assets/c4b9b0ed-737f-4d63-8c1d-fa593a56756b" />
+
